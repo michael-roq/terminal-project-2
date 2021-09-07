@@ -1,1 +1,1 @@
-# terminal-project-2
+# terminal-project
